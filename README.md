@@ -1,5 +1,5 @@
 
-<img src="img_bg" alt="GitHub Banner" width="800">
+
 
 
 # 💫 About Me:
