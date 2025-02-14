@@ -12,9 +12,10 @@ Hi! I'm Vineeth Bandi, a passionate Software Engineer with a strong foundation i
 # 💻 Tech Stack:
 ```javascript
 const about = {
-  code: [Python, CPP , Go, Rust, NodeJS],
-  frameworks: [Django, React, React Native, Vue],
-  infrastructure: [AWS, GCP, Docker, Kubernetes, Nginx, Linkerd],
+  code: [Python, Java , CPP, TS, NodeJS],
+  frameworks: [Django, React, React Native, Vue, Next],
+  infrastructure: [AWS, GCP, Docker, Kubernetes, Jenkins, Ansible],
+  Databases: [PostgreSQL, MongoDB, MySQL],
   architecture: ["microservices", "service-mesh", "system design"],
   interests: ["genai", "reinforcement learning"]
 }
