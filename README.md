@@ -6,6 +6,9 @@
 Hi! I'm Vineeth Bandi, a passionate Software Engineer with a strong foundation in Full-Stack Development and Cloud Computing. I specialize in technologies like Java, TypeScript, Python, React, Angular, AWS, Docker, Kubernetes, and AI. With hands-on experience in building scalable web applications and working with cutting-edge cloud technologies, I aim to leverage my skills to solve complex problems and drive innovation.<br><br>I recently graduated and am actively exploring opportunities in the tech industry. I'm excited to contribute to open-source projects, collaborate with other developers, and grow as a tech professional.<br><br>Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss ideas!
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1&width=435&lines=Full+Stack+Developer;Software+Engineer;Blockchain+%26+AI+Enthusiast;Cloud+%26+Microservices+Architect;Building+Scalable+Systems;Passionate+about+Tech+%26+Innovation)](https://git.io/typing-svg)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeth-bandi2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineethb535@gmail.com) 
 
