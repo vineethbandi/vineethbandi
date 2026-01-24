@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/vineeth](https://www.linkedin.com/in/vineeth)
+* 💼 **LinkedIn:** [linkedin.com/in/vineeth](https://www.linkedin.com/in/vineeth-bandi/)
 * 📧 **Email:** [vineethb535@gmail.com](mailto:vineethb535@gmail.com)
 
 
