@@ -3,7 +3,36 @@
 
 
 # 💫 About Me:
-Hi! I'm Vineeth Bandi, a passionate Software Engineer with a strong foundation in Full-Stack Development and Cloud Computing. I specialize in technologies like Java, TypeScript, Python, React, Angular, AWS, Docker, Kubernetes, and AI. With hands-on experience in building scalable web applications and working with cutting-edge cloud technologies, I aim to leverage my skills to solve complex problems and drive innovation.<br><br>I and am actively exploring opportunities in the tech industry. I'm excited to contribute to open-source projects, collaborate with other developers, and grow as a tech professional.<br><br>Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss ideas!
+# Hi, I'm Vineeth Bandi 👋 
+
+**Software Engineer | Full Stack & AI-Augmented Quality Engineering** *Optimizing the intersection of scalable development and automated infrastructure.*
+
+### 🛠️ Professional Focus
+* **Enterprise-Scale Automation:** Formerly an **SDET II at Paycom**, where I managed 500+ API endpoints and architected frameworks that replaced 150+ hours of manual labor monthly.
+* **Full Stack & Cloud:** Specialized in building resilient microservices using **Java (Spring Boot), Node.js, and AWS**, with a focus on high availability and fault tolerance.
+* **AI-Driven Engineering:** Early adopter of **Model Context Protocol (MCP)** and AI self-healing scripts to reduce technical debt and maintenance overhead.
+
+---
+
+### 🚀 Key Impact Metrics
+* **65% Faster Deployments:** Optimized **GitLab CI/CD** pipelines to slash code-to-production feedback loops.
+* **42% Coverage Growth:** Engineered modular frameworks for core payroll modules to ensure zero-defect leakage.
+* **35% Maintenance Reduction:** Integrated **AI/LLM mechanisms** to autonomously repair flaky test scripts.
+
+
+
+---
+
+### 📂 Current Interests & Open Source
+* 🤖 **AI Agents:** Exploring LLM integration for autonomous system debugging and context-aware testing.
+* ☁️ **Cloud Architecture:** Deep diving into serverless patterns and Kubernetes orchestration.
+* 🤝 **Collaboration:** Always looking to contribute to open-source projects in the DevOps and Developer Productivity space.
+
+---
+
+### 📫 Connect with Me
+* 💼 **LinkedIn:** [linkedin.com/in/vineeth](https://www.linkedin.com/in/vineeth)
+* 📧 **Email:** [vineethb535@gmail.com](mailto:vineethb535@gmail.com)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1&width=435&lines=Full+Stack+Developer;Software+Engineer;Blockchain+%26+AI+Enthusiast;Cloud+%26+Microservices+Architect;Building+Scalable+Systems;Passionate+about+Tech+%26+Innovation)](https://git.io/typing-svg)
@@ -15,7 +44,7 @@ Hi! I'm Vineeth Bandi, a passionate Software Engineer with a strong foundation i
 # 💻 Tech Stack:
 ```javascript
 const about = {
-  code: [Python, Java , CPP, TS, NodeJS],
+  code: [Java, Python, JavaScript (ES6+), C#, SQL (Postgres), C++, HTML/CSS.],
   frameworks: [Django, React, React Native, Vue, Next],
   infrastructure: [AWS, GCP, Docker, Kubernetes, Jenkins, Ansible],
   Databases: [PostgreSQL, MongoDB, MySQL],
