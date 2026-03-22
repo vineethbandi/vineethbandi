@@ -8,7 +8,7 @@
 **Software Engineer | Full Stack & AI-Augmented Quality Engineering** *Optimizing the intersection of scalable development and automated infrastructure.*
 
 ### 🛠️ Professional Focus
-* **Enterprise-Scale Automation:** Formerly an **SDET II at Paycom**, where I managed 500+ API endpoints and architected frameworks that replaced 150+ hours of manual labor monthly.
+* **Enterprise-Scale Automation:** Formerly an **SDE II at Paycom**, where I managed 500+ API endpoints and architected frameworks that replaced 150+ hours of manual labor monthly.
 * **Full Stack & Cloud:** Specialized in building resilient microservices using **Java (Spring Boot), Node.js, and AWS**, with a focus on high availability and fault tolerance.
 * **AI-Driven Engineering:** Early adopter of **Model Context Protocol (MCP)** and AI self-healing scripts to reduce technical debt and maintenance overhead.
 
